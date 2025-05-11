@@ -7,4 +7,4 @@ Scripts simples com intuito de testar minhas habilidades em l√≥gica de programa√
 - JavaScript
 
 ## Como executar
-`node "nome do arquivo`
+`node "nome do arquivo.js"`
