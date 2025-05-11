@@ -1,7 +1,7 @@
-# Projeto: Conversor de Temperatura
+# Projetos Acadêmicos
 
 ## Objetivo
-Script simples para conversão de temperatura entre Celsius e Fahrenheit.
+Scripts simples com intuito de testar minhas habilidades em lógica de programação.
 
 ## Tecnologias
 - JavaScript
