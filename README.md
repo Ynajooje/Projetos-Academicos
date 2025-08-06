@@ -4,7 +4,8 @@
 Scripts simples com intuito de testar minhas habilidades em lógica de programação.
 
 ## Tecnologias
-- JavaScript
+- JavaScript - Python
 
 ## Como executar
-`node "nome do arquivo.js"`
+JavaScript: `node "nome do arquivo.js"` 
+Python:  `botão de executar` 
