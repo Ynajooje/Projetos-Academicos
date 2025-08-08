@@ -1,11 +1,10 @@
 # Projetos Acadêmicos
 
 ## Objetivo
-Scripts simples com intuito de testar minhas habilidades em lógica de programação.
+Scripts simples com intuito de melhorar minhas habilidades em programação.
 
 ## Tecnologias
-- JavaScript - Python
+- JavaScript 
 
 ## Como executar
 JavaScript: `node "nome do arquivo.js"` 
-Python:  `botão de executar` 
